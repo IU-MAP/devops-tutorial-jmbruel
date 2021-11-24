@@ -25,7 +25,7 @@
 
 ### On your local computer
 
-  - Java 16: programming language used for this tutorial
+  - Java 8: programming language used for this tutorial
   - Maven 3: classical build and dependencies tools for Java
   - Git: version control system for collaborative coding
   - Docker: container framework used to create turn-key applications
