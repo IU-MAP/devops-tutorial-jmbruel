@@ -8,6 +8,16 @@
   - Version: 2021.09 (RE 2021)
   - Kata length: 120 to 180 minutes
 
+##Attendee
+
+### LAST NAME : Bruel
+### First name : Jean-Michel
+### TP group : 
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [x] TA
 ## Objectives
 
   - Create a toy application in java to order drinks in a bar;
