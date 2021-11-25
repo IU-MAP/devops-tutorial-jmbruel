@@ -8,7 +8,7 @@
   - Version: 2021.09 (RE 2021)
   - Kata length: 120 to 180 minutes
 
-##Attendee
+## Attendee
 
 ### LAST NAME : Bruel
 ### First name : Jean-Michel
